@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# PyCharm
+.idea/
+
+# Logs
+logs/
+
+# Allure
+allure-results/
+allure-report/
+
+# OS
+.DS_Store
